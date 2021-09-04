@@ -1,4 +1,4 @@
-# Awesome interactive math tools
+# Awesome interactive math
 
 A curated list of tools that can be used for creating interactive mathematical explorables on the web. 
 
