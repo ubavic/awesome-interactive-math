@@ -35,8 +35,8 @@ A curated list of tools that can be used for creating interactive mathematical e
 ### Awesome plotters
 
  - [Complex function plotter](https://people.ucsc.edu/~wbolden/complex/#z), Will Bolden
- - [Elliptic curve explorer/](https://samuelj.li/elliptic-curve-explorer/), Samuel Li
- - [Interactive projective plane/](https://ubavic.rs/work/interactive_projective_plane/?lang=en), Nikola Ubavić
+ - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer/), Samuel Li
+ - [Interactive projective plane](https://ubavic.rs/work/interactive_projective_plane/?lang=en), Nikola Ubavić
  - [IsoVis](https://rawgit.com/csp256/IsoVis/master/IsoVis.html), Christopher Parker 
 
 ## Contribution
