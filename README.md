@@ -46,7 +46,7 @@ A curated list of tools that can be used for creating interactive mathematical e
 
 ### Other awesomeness
 
- - [Polyhedra Viewer](https://polyhedra.tessera.li/)
+ - [Polyhedra Viewer](https://polyhedra.tessera.li/), Nat Alison
 
 
 ## Contribution
