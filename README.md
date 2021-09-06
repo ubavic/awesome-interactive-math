@@ -5,6 +5,7 @@ A curated list of tools that can be used for creating interactive mathematical e
 ## Tools
 
  - [CindyJS](https://cindyjs.org/) - a framework to create interactive (mathematical) content for the web.
+ - [Cortex Compute Engine](https://cortexjs.io/compute-engine/) -  JavaScript library for symbolic computing and numerical evaluation of mathematical expressions.
  - [D3.js](https://d3js.org/) - a JavaScript library for manipulating documents based on data.
  - [Desmos API](https://www.desmos.com/api/) - dead-simple way to embed rich, interactive math into your web page or web app.
  - [Geogebra embeded](https://wiki.geogebra.org/en/Embedding_in_Webpages)
@@ -12,6 +13,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [JSXGraph](http://jsxgraph.org/wp/index.html) - a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser.
  - [Mafs](https://mafs.dev/) - a set of opinionated React components for creating math visualizations.
  - [MathBox](https://gitgud.io/unconed/mathbox) - a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
+ - [MathLive](https://cortexjs.io/mathlive/) - a web component for math input (Latex, MathML, MathJSON).
  - [Observable](https://observablehq.com/) - a platform for creating interactive explorables.
  - [p5.js](https://p5js.org/) - a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners...
  - [pts](https://ptsjs.org/) - a library for visualization and creative-coding 
