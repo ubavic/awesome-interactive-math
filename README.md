@@ -20,17 +20,22 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R.
  - [three.js](https://threejs.org) - a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
-## Examples
+## Examples of interactive math
 
-### Articles
+### Awesome articles
 
- - [Complex analysis](https://complex-analysis.com/), Juan Carlos Ponce Campuzano
- - [Immersive linear algebra](http://immersivemath.com/ila/index.html), J. Ström, K. Åström, and T. Akenine-Möller
  - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
  - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions/), Marc ten Bosch
  - [A primer on Bézier curves](https://pomax.github.io/bezierinfo/), Mike Kamermans
  - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion/), Ricky Reusser
  - [Tesseract](https://ciechanow.ski/tesseract/), Bartosz Ciechanowski
+ - [Visualizing Geodesics on Surfaces](https://analyticphysics.com/General%20Relativity/Visualizing%20Geodesics%20on%20Surfaces.htm), Paul Masson
+
+### Awesome books
+
+ - [Complex analysis](https://complex-analysis.com/), Juan Carlos Ponce Campuzano
+ - [Immersive linear algebra](http://immersivemath.com/ila/index.html), J. Ström, K. Åström, and T. Akenine-Möller
+ - [Seeing circles, sines and signals](https://jackschaedler.github.io/circles-sines-signals/) - A Compact Primer on Digital Signal Processing.
 
 ### Awesome plotters
 
@@ -38,6 +43,11 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer/), Samuel Li
  - [Interactive projective plane](https://ubavic.rs/work/interactive_projective_plane/?lang=en), Nikola Ubavić
  - [IsoVis](https://rawgit.com/csp256/IsoVis/master/IsoVis.html), Christopher Parker 
+
+### Other awesomeness
+
+ - [Polyhedra Viewer](https://polyhedra.tessera.li/)
+
 
 ## Contribution
 
