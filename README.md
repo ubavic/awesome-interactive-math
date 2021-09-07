@@ -15,7 +15,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Observable](https://observablehq.com/) - a platform for creating interactive explorables.
  - [p5.js](https://p5js.org/) - a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners...
  - [pts](https://ptsjs.org/) - a library for visualization and creative-coding 
- - [RactivePlayer](https://liqvidjs.org/) - library for interactive videos in React.
+ - [Liqvid](https://liqvidjs.org/) - library for interactive videos in React.
  - [SageMath WebGL Renderer](https://doc.sagemath.org/html/en/reference/plot3d/threejs.html)
  - [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R.
  - [three.js](https://threejs.org) - a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
