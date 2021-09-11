@@ -25,6 +25,7 @@ A curated list of tools that can be used for creating interactive mathematical e
 ### Awesome articles
 
  - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
+ - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/), Steven Wittens
  - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions), Marc ten Bosch
  - [A primer on Bézier curves](https://pomax.github.io/bezierinfo), Mike Kamermans
  - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion), Ricky Reusser
