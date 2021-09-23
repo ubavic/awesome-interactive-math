@@ -20,41 +20,42 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R.
  - [three.js](https://threejs.org) - a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
-## Examples of interactive math
+## Examples of awesome interactive math
 
-### Awesome articles
+### Articles
 
  - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
  - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/), Steven Wittens
  - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions), Marc ten Bosch
+ - [Interactive tutorial of the sequent calculus](http://logitext.mit.edu/tutorial), Edward Z. Yang 
  - [A primer on Bézier curves](https://pomax.github.io/bezierinfo), Mike Kamermans
  - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion), Ricky Reusser
  - [Tesseract](https://ciechanow.ski/tesseract), Bartosz Ciechanowski
  - [Visualizing Geodesics on Surfaces](https://analyticphysics.com/General%20Relativity/Visualizing%20Geodesics%20on%20Surfaces.htm), Paul Masson
+ - [Why Momentum Really Works](https://distill.pub/2017/momentum/), Gabriel Goh
 
-### Awesome books
+### Books
 
  - [Complex analysis](https://complex-analysis.com/), Juan Carlos Ponce Campuzano
  - [Immersive linear algebra](http://immersivemath.com/ila/index.html), J. Ström, K. Åström, and T. Akenine-Möller
  - [Seeing circles, sines and signals](https://jackschaedler.github.io/circles-sines-signals), Jack Schaedler
 
-### Awesome plotters
+### Plotters
 
  - [Complex function plotter](https://people.ucsc.edu/~wbolden/complex/#z), Will Bolden
  - [Complex function plotter](https://www.dynamicmath.xyz/complex/function-plotter/hsv.htm), Juan Carlos Ponce Campuzano
  - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer), Samuel Li
  - [Interactive projective plane](https://ubavic.rs/work/interactive_projective_plane), Nikola Ubavić
- - [IsoVis](https://rawgit.com/csp256/IsoVis/master/IsoVis.html), Christopher Parker 
+ - [IsoVis](https://rawgit.com/csp256/IsoVis/master/IsoVis.html), Christopher Parker
 
 ### Other awesomeness
 
  - [Polyhedra Viewer](https://polyhedra.tessera.li), Nat Alison
+ - [MLDemos](https://basilio.dev/), Basilio Noris
 
-
-## Awesome math games
+### Math games
 
 See [this](https://github.com/ubavic/awesome-math-games) list.
-
 
 ## Contribution
 
