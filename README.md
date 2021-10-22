@@ -7,11 +7,13 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [CindyJS](https://cindyjs.org/) - a framework to create interactive (mathematical) content for the web.
  - [D3.js](https://d3js.org/) - a JavaScript library for manipulating documents based on data.
  - [Desmos API](https://www.desmos.com/api/) - dead-simple way to embed rich, interactive math into your web page or web app.
+ - [Euclid JS](https://euclid.js.org/) - Euclidean geometry in javascript.
  - [Geogebra embeded](https://wiki.geogebra.org/en/Embedding_in_Webpages)
  - [Grafar](https://thoughtspile.github.io/grafar/) - a javascript library for reactive, 3D mathematical visualization (data visualization capabilities coming sometime). Built on top of WebGL (via Three.js).
  - [JSXGraph](http://jsxgraph.org/wp/index.html) - a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser.
  - [Mafs](https://mafs.dev/) - a set of opinionated React components for creating math visualizations.
  - [MathBox](https://gitgud.io/unconed/mathbox) - a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
+ - [Mathigon](https://mathigon.io/) - open-source TypeScript libraries for creating and hosting interactive courses or virtual manipulatives.
  - [Observable](https://observablehq.com/) - a platform for creating interactive explorables.
  - [p5.js](https://p5js.org/) - a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners...
  - [pts](https://ptsjs.org/) - a library for visualization and creative-coding 
