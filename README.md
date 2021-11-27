@@ -13,6 +13,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [JSXGraph](http://jsxgraph.org/wp/index.html) - a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser.
  - [Mafs](https://mafs.dev/) - a set of opinionated React components for creating math visualizations.
  - [MathBox](https://gitgud.io/unconed/mathbox) - a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
+ - [MathCell](https://mathcell.org/) - a simple straightforward way to include interactive mathematics in a web page.
  - [Mathigon](https://mathigon.io/) - open-source TypeScript libraries for creating and hosting interactive courses or virtual manipulatives.
  - [Observable](https://observablehq.com/) - a platform for creating interactive explorables.
  - [p5.js](https://p5js.org/) - a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners...
