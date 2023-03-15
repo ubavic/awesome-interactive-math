@@ -30,7 +30,8 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
  - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/), Steven Wittens
  - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions), Marc ten Bosch
- - [Interactive tutorial of the sequent calculus](http://logitext.mit.edu/tutorial), Edward Z. Yang 
+ - [Interactive tutorial of the sequent calculus](http://logitext.mit.edu/tutorial), Edward Z. Yang
+ - [Pythagorean theorem](https://setosa.io/pythagorean/), Victor Powell 
  - [A primer on Bézier curves](https://pomax.github.io/bezierinfo), Pomax
  - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion), Ricky Reusser
  - [Tesseract](https://ciechanow.ski/tesseract), Bartosz Ciechanowski
