@@ -46,6 +46,7 @@ A curated list of tools that can be used for creating interactive mathematical e
 
 ### Plotters
 
+ - [2D Inverse Fourier Transform Playground](https://monman53.github.io/demos/2dfft/), Tetsuro Sakamoto
  - [Complex function plotter](https://people.ucsc.edu/~wbolden/complex/#z), Will Bolden
  - [Complex function plotter](https://www.dynamicmath.xyz/complex/function-plotter/hsv.htm), Juan Carlos Ponce Campuzano
  - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer), Samuel Li
