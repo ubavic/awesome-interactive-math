@@ -12,7 +12,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Grafar](https://thoughtspile.github.io/grafar/) - a javascript library for reactive, 3D mathematical visualization (data visualization capabilities coming sometime). Built on top of WebGL (via Three.js).
  - [JSXGraph](http://jsxgraph.org/wp/index.html) - a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser.
  - [Mafs](https://mafs.dev/) - a set of opinionated React components for creating math visualizations.
- - [MathBox](https://gitgud.io/unconed/mathbox) - a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
+ - [MathBox](https://github.com/unconed/mathbox) - a library for rendering presentation-quality math diagrams in a browser using WebGL. Built on top of Three.js and ShaderGraph, it provides a clean API to visualize mathematical relationships and animate them declaratively.
  - [MathCell](https://mathcell.org/) - a simple straightforward way to include interactive mathematics in a web page.
  - [Mathigon](https://mathigon.io/) - open-source TypeScript libraries for creating and hosting interactive courses or virtual manipulatives.
  - [Observable](https://observablehq.com/) - a platform for creating interactive explorables.
@@ -47,7 +47,6 @@ A curated list of tools that can be used for creating interactive mathematical e
 ### Plotters
 
  - [2D Inverse Fourier Transform Playground](https://monman53.github.io/demos/2dfft/), Tetsuro Sakamoto
- - [Complex function plotter](https://people.ucsc.edu/~wbolden/complex/#z), Will Bolden
  - [Complex function plotter](https://www.dynamicmath.xyz/complex/function-plotter/hsv.htm), Juan Carlos Ponce Campuzano
  - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer), Samuel Li
  - [Interactive projective plane](https://ubavic.rs/work/interactive_projective_plane), Nikola Ubavić
