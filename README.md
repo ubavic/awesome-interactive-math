@@ -1,4 +1,4 @@
-# Awesome interactive math tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome interactive math
 
 A curated list of tools that can be used for creating interactive mathematical explorables on the web. 
 
@@ -23,20 +23,20 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R.
  - [three.js](https://threejs.org) - a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
-## Examples of awesome interactive math
+## Examples
 
 ### Articles
 
- - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html), Jez Swanson
- - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/), Steven Wittens
- - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions), Marc ten Bosch
- - [Interactive tutorial of the sequent calculus](http://logitext.mit.edu/tutorial), Edward Z. Yang
- - [Pythagorean theorem](https://setosa.io/pythagorean/), Victor Powell 
- - [A primer on Bézier curves](https://pomax.github.io/bezierinfo), Pomax
- - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion), Ricky Reusser
- - [Tesseract](https://ciechanow.ski/tesseract), Bartosz Ciechanowski
- - [Visualizing Geodesics on Surfaces](https://analyticphysics.com/General%20Relativity/Visualizing%20Geodesics%20on%20Surfaces.htm), Paul Masson
- - [Why Momentum Really Works](https://distill.pub/2017/momentum/), Gabriel Goh
+ - [An interactive introduction to Fourier transforms](https://www.jezzamon.com/fourier/index.html) (Jez Swanson)
+ - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) (Steven Wittens)
+ - [Let's remove quaternions from every 3D engine](https://marctenbosch.com/quaternions) (Marc ten Bosch)
+ - [Interactive tutorial of the sequent calculus](http://logitext.mit.edu/tutorial) (Edward Z. Yang)
+ - [Pythagorean theorem](https://setosa.io/pythagorean/) (Victor Powell) and other aricles on [setosa.io](https://setosa.io/)
+ - [A primer on Bézier curves](https://pomax.github.io/bezierinfo) (Pomax)
+ - [Sphere eversion](https://rreusser.github.io/explorations/sphere-eversion) (Ricky Reusser)
+ - [Tesseract](https://ciechanow.ski/tesseract) (Bartosz Ciechanowski)
+ - [Visualizing Geodesics on Surfaces](https://analyticphysics.com/General%20Relativity/Visualizing%20Geodesics%20on%20Surfaces.htm) (Paul Masson) and other articles on [analyticphysics.com](https://analyticphysics.com/)
+ - [Why Momentum Really Works](https://distill.pub/2017/momentum/), (Gabriel Goh) and other articles on [distill.pub](https://distill.pub/)
 
 ### Books
 
@@ -60,7 +60,20 @@ A curated list of tools that can be used for creating interactive mathematical e
 
 ### Math games
 
-See [this](https://github.com/ubavic/awesome-math-games) list.
+Games marked with a *WEB* can be played in a browser.
+
+ - [4D Toys](https://4dtoys.com/) - a box of toys from the fourth dimension.
+ - [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/) - a first-person game prototype in which players navigate a 3D space while picking up orbs that reduce the speed of light in increments.
+ - [Euclidea](https://www.euclidea.xyz/) - *WEB* - geometric Constructions Game with Straightedge and Compass.
+ - [Fragments of Euclid](https://nusan.itch.io/fragments-of-euclid) - a game about exploring and solving puzzle in a mind-bending environment inspired by M.C. Escher.
+ - [Hyperbolica](https://store.steampowered.com/app/1256230/Hyperbolica/) - a whimsical Non-Euclidean adventure with mind-bending worlds full of games, puzzles, mazes, and secrets!
+ - [HyperRogue](http://www.roguetemple.com/z/hyper/) - tactical puzzle/roguelike on a hyperbolic plane.
+ - [Sokyokuban](https://sokyokuban.com/) - *WEB* - Sokoban on a hyperbolic plane.
+ - [Snake in the projective plane](https://ubavic.rs/snake/snake.html) - *WEB* - snake played in a fundamental polygon of a real projective plane.
+
+#### In development 
+
+ - [Miegakure](https://miegakure.com/) - a game where you navigate a four-dimensional world to perform miraculous feats and solve puzzles. 
 
 ## Contribution
 
