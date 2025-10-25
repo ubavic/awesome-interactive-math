@@ -1,6 +1,6 @@
 # Awesome interactive math
 
-A curated list of tools that can be used for creating interactive mathematical explorables on the web. 
+A curated list of tools that can be used for creating interactive mathematical explorables on the web.  See also [explorabl.es list](https://explorabl.es/).
 
 ## Tools
 
@@ -55,9 +55,10 @@ A curated list of tools that can be used for creating interactive mathematical e
 
 ### Other awesomeness
 
+ - [Complexity Explorables](https://www.complexity-explorables.org/), Dirk Brockmann
  - [Polyhedra Viewer](https://polyhedra.tessera.li), Nat Alison
  - [MLDemos](https://basilio.dev/), Basilio Noris
- - [Float exposed](https://float.exposed/0x000fffffffffffff), Bartosz Ciechanowski
+ - [Float exposed](https://float.exposed/0x000fffffffffffff), Bartosz Ciechanowski. Also other articles by the author.
 
 ### Math games
 
