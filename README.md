@@ -74,6 +74,7 @@ Games marked with a *WEB* can be played in a browser.
  - [HyperRogue](http://www.roguetemple.com/z/hyper/) - tactical puzzle/roguelike on a hyperbolic plane.
  - [Sokyokuban](https://sokyokuban.com/) - *WEB* - Sokoban on a hyperbolic plane.
  - [Snake in the projective plane](https://ubavic.rs/snake/snake.html) - *WEB* - snake played in a fundamental polygon of a real projective plane.
+ - [Syncro](https://rawegg.itch.io/syncro) - *WEB* - game challenges logical reasoning by the use of mathematics, conveying a graphical representation of a principle in the Automata Theory. 
  - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) - Learn CPU architecture with puzzles 
 
 #### In development 
