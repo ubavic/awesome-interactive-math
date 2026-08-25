@@ -22,6 +22,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [SageMath WebGL Renderer](https://doc.sagemath.org/html/en/reference/plot3d/threejs.html)
  - [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R.
  - [three.js](https://threejs.org) - a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
+ - [hyperbolic-map](https://github.com/jpivarski/hyperbolic-map) - a JavaScript library that displays an interactive, scrollable map in hyperbolic Poincaré disk projection. Scroll through Escher-style tilings, genealogical trees with custom art, make cellular automata visualizations, etc., by writing applications and importing your own art from SVG.
 
 ## Examples
 
