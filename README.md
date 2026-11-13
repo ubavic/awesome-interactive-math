@@ -84,4 +84,4 @@ Games marked with a *WEB* can be played in a browser.
 
 ## Contribution
 
-Feel free to recommend any awesome tool not listed here.
+Feel free to recommend any awesome tool not listed here. Vibecoded projects will not be accepted 
